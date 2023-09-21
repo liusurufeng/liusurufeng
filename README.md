@@ -3,6 +3,7 @@
 - 🌱 I’m hhong
 - 🔭 I’m a computer science graduate student
 - 👯 I’m currently learning AI Algorithm，primarily in the field of computer vision
+- 技术博客：https://blog.csdn.net/fengbao24?type=blog
 <!--
 **liusurufeng/liusurufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

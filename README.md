@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hey! Nice to meet you! 👋
+- 📫 Welcome to my space!
+- 🌱 I’m hhong
+- 🔭 I’m a computer science graduate student
+- 👯 I’m currently learning AI Algorithm，primarily in the field of computer vision
 <!--
 **liusurufeng/liusurufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
